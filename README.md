@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on something Cool!
 - 🌱 I’m currently learning Redux, TypeScript and Tailwind CSS.
 - 📫 How to reach me: Mail me at sumanbista2012@gmail.com
+
+[![Suman's GitHub stats](https://github-readme-stats.vercel.app/api?username=suman-de-bista)](https://github.com/anuraghazra/github-readme-stats)
