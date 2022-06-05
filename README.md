@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on something Cool!
+- 🌱 I’m currently learning Redux, TypeScript and Tailwind CSS.
+- 📫 How to reach me: Mail me at sumanbista2012@gmail.com
