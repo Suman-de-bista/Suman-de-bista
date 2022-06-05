@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Mail me at sumanbista2012@gmail.com
 
 ![Suman's GitHub stats](https://github-readme-stats.vercel.app/api?username=suman-de-bista&count_private=true&show_icons=true&theme=cobalt)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suman-de-bista&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
