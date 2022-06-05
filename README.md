@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Redux, TypeScript and Tailwind CSS.
 - 📫 How to reach me: Mail me at sumanbista2012@gmail.com
 
-![Suman's GitHub stats](https://github-readme-stats.vercel.app/api?username=suman-de-bista&count_private=true&show_icons=true&theme=radical)
+![Suman's GitHub stats](https://github-readme-stats.vercel.app/api?username=suman-de-bista&count_private=true&show_icons=true&theme=cobalt)
