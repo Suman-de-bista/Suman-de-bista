@@ -1,5 +1,5 @@
 ### Hi there , It's me Suman De Bista👋
-![](https://komarev.com/ghpvc/?username=suman-de-bista&color=dc143c)
+![](https://komarev.com/ghpvc/?username=suman-de-bista&color=blue)
 <!--
 **Suman-de-bista/Suman-de-bista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
