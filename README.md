@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-
+<div align='center'>![](https://komarev.com/ghpvc/?username=suman-de-bista&color=blue)</div>
 
 
 
@@ -24,7 +24,7 @@
 
 ### Hi there , It's me Suman De Bista👋
 
-![](https://komarev.com/ghpvc/?username=suman-de-bista&color=blue)
+
 <!--
 **Suman-de-bista/Suman-de-bista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
