@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 ![Suman's GitHub stats](https://github-readme-stats.vercel.app/api?username=suman-de-bista&count_private=true&show_icons=true&theme=cobalt)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suman-de-bista&langs_count=8)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suman-de-bista&layout=compact)]
