@@ -19,8 +19,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Mail me at sumanbista2012@gmail.com
 
 
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-
+### 
 ![Suman's GitHub stats](https://github-readme-stats.vercel.app/api?username=suman-de-bista&count_private=true&show_icons=true&theme=cobalt)
+
+###
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suman-de-bista&layout=compact)
