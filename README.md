@@ -16,7 +16,7 @@
 <img src="https://komarev.com/ghpvc/?username=suman-de-bsita&style=flat-square&color=blue" alt=""/>
 
 <h1>
-  hey there, It's me Suman De Bista
+  hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px"/>
 </h1>
 </div>
