@@ -14,6 +14,11 @@
   </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=suman-de-bsita&style=flat-square&color=blue" alt=""/>
+
+<h1>
+  hey there, It's me Suman De Bista
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 </div>
 
 
@@ -23,7 +28,6 @@
 
 
 
-### Hi there , It's me Suman De Bista👋
 
 <!--
 **Suman-de-bista/Suman-de-bista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -40,7 +44,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on something Cool!
-- 🌱 I’m currently learning Redux, TypeScript and Tailwind CSS.
+- 🌱 I’m currently learning Redux and Tailwind CSS.
 - 📫 How to reach me: Mail me at sumanbista2012@gmail.com
 
 
